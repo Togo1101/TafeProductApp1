@@ -40,7 +40,7 @@ namespace ProductApps
                 MessageBox.Show("Enter data again", "Data Entry Error");
             }
         }//dqwhgdhqhwudqwhudhuqw8wuq
-
+        //asduhasdasudihasudhuhas
         private void clearButton_Click(object sender, RoutedEventArgs e)
         {
             productTextBox.Text = "";
